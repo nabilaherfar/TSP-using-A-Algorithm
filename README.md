@@ -56,5 +56,4 @@ Project is: _finished_
 
 ## Contact
 Created by  
-[13519181 - Nabilah Erfariani](https://github.com/nabilaherfar)  
-[13519192 - Gayuh Tri Rahutami](https://github.com/wundersmith)
+[Nabilah Erfariani](https://github.com/nabilaherfar)  
